@@ -1,11 +1,8 @@
 
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
-
 import java.util.Date;
-
 import org.junit.jupiter.api.Test;
-
 import com.epam.vaccine_management.entities.DoseData;
 
 class TestDoseData {
